@@ -1,7 +1,7 @@
 # NGUYỄN ĐẶNG TRƯỜNG AN
 <p align="center">
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=tynab&theme=dracula&column=6"> -->
-<img src="https://hacked-github-stat-trophies.vercel.app/?username=tynab&theme=dracula&column=11">
+<img src="https://github-profile-trophy.vercel.app/?username=tynab&theme=dracula&column=6">
+<!-- <img src="https://hacked-github-stat-trophies.vercel.app/?username=tynab&theme=dracula&column=11"> -->
 </p>
 
 <p align=left>
