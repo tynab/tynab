@@ -37,6 +37,8 @@
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Eclipse.png" width="50" title="Eclipse">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/VSCode.png" width="50" title="Visual Studio Code">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/VS.png" width="50" title="Visual Studio">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/GitHub.png" width="50" title="GitHub">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/GitLab.png" width="50" title="GitLab">
 </p>
 
 <p align="center">
