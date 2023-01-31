@@ -47,6 +47,7 @@
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/VS.png" width="50" title="Visual Studio">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/GitHub.png" width="50" title="GitHub">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/GitLab.png" width="50" title="GitLab">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Procfile.png" width="50" title="Heroku">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Swagger.png" width="50" title="Swagger">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Jenkins.png" width="50" title="Jenkins">
 </p>
