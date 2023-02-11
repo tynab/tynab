@@ -31,16 +31,16 @@
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/MongoDB.png" width="50" title="MongoDB">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Redis.png" width="50" title="Redis">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Boostrap.png" width="50" title="Boostrap">
-    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Spring.png" width="50" title="Spring Boot">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Spring.png" width="50" title="Spring">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/dotNET.png" width="50" title=".NET">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Entity.png" width="50" title="Entity">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/ABP.png" width="50" title="ABP">
-    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/CCF.png" width="50" title="Cimetrix">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/CCF.png" width="50" title="Cimetrix Control">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Elasticsearch.png" width="50" title="Elastic">
-    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Logtash.png" width="50" title="Logtash">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/cc.png" width="50" title="Logstash">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Kibana.png" width="50" title="Kibana">
-    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Kafka.png" width="50" title="Kafka">
-    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/RabbitMQ.png" width="50" title="Rabbit MQ">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Kafka.png" width="50" title="Apache Kafka">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/RabbitMQ.png" width="50" title="RabbitMQ">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Docker.png" width="50" title="Docker">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Git.png" width="50" title="Git">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/VS.png" width="50" title="Visual Studio">
