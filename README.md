@@ -33,7 +33,6 @@
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Boostrap.png" width="50" title="Boostrap">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Spring.png" width="50" title="Spring">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/dotNET.png" width="50" title=".NET">
-    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Entity.png" width="50" title="Entity">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/ABP.png" width="50" title="ABP">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/CCF.png" width="50" title="Cimetrix Control">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Elastic.png" width="50" title="Elastic">
