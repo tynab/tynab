@@ -17,9 +17,9 @@
 <p algin="right">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/HTML.png" width="50" title="HTML">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/CSS.png" width="50" title="CSS">
-    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/JS.png" width="50" title="JS">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/JS.png" width="50" title="JavaScript">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/jQuery.png" width="50" title="jQuery">
-    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/VBNET.png" width="50" title="VB.NET">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/VBNET.png" width="50" title="Visual Basic">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/C.png" width="50" title="C">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/CPP.png" width="50" title="C++">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/CS.png" width="50" title="C#">
