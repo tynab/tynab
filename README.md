@@ -64,5 +64,3 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tynab&repo=yanlib&theme=dracula" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=nohit-java17&repo=jira-project&theme=dracula" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tynab&repo=crm-project&theme=dracula" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tynab&repo=loginside-fyan-bot&theme=dracula" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tynab&repo=searching-algorithms&theme=dracula" />
