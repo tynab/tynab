@@ -15,7 +15,7 @@
 <!-- <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tynab&theme=dracula" /> -->
 
 <p algin="right">
-    <p style="font-family:verdana;color:#E26488;font-size:18px;text-align:center;font-weight: 600;padding-top:15px;padding-bottom:5px;">Skill</p>
+    <p>Skill</p>
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/HTML.png" width="50" title="HTML">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/CSS.png" width="50" title="CSS">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/JS.png" width="50" title="JavaScript">
