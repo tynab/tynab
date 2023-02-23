@@ -31,8 +31,10 @@
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/MongoDB.png" width="50" title="MongoDB">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Redis.png" width="50" title="Redis">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Boostrap.png" width="50" title="Boostrap">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/FontAwesome.png" width="50" title="Font Awesome">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Spring.png" width="50" title="Spring">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/dotNET.png" width="50" title=".NET">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Maven.png" width="50" title="Apache Maven">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/ABP.png" width="50" title="ABP">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/CCF.png" width="50" title="Cimetrix Control">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Elastic.png" width="50" title="Elastic">
@@ -43,6 +45,7 @@
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/RabbitMQ.png" width="50" title="RabbitMQ">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Docker.png" width="50" title="Docker">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Git.png" width="50" title="Git">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Postman.png" width="50" title="Postman">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/VS.png" width="50" title="Visual Studio">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/VSCode.png" width="50" title="Visual Studio Code">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Anaconda.png" width="50" title="Anaconda Navigator">
@@ -52,8 +55,11 @@
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/GitHub.png" width="50" title="GitHub">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/GitLab.png" width="50" title="GitLab">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Procfile.png" width="50" title="Heroku">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/NuGet.png" width="50" title="NuGet">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/jsDelivr.png" width="50" title="jsDelivr">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Swagger.png" width="50" title="Swagger">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Jenkins.png" width="50" title="Jenkins">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/StackOverflow.png" width="50" title="Stack Overflow">
 </p>
 
 <p align="center">
