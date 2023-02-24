@@ -25,16 +25,16 @@
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/CS.png" width="50" title="C#">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Python.png" width="50" title="Python">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Java.png" width="50" title="Java">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/ObjectiveC.png" width="50" title="Objective-C">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Postgre.png"n width="50" title="PostgreSQL">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/MySQL.png"n width="50" title="MySQL">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/MSSS.png" width="50" title="Microsoft SQL Server">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/MongoDB.png" width="50" title="MongoDB">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Redis.png" width="50" title="Redis">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Boostrap.png" width="50" title="Boostrap">
-    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/FontAwesome.png" width="50" title="Font Awesome">
-    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Spring.png" width="50" title="Spring">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/dotNET.png" width="50" title=".NET">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Maven.png" width="50" title="Apache Maven">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Spring.png" width="50" title="Spring">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/ABP.png" width="50" title="ABP">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/CCF.png" width="50" title="Cimetrix Control">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Elastic.png" width="50" title="Elastic">
@@ -43,23 +43,30 @@
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Kibana.png" width="50" title="Kibana">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Kafka.png" width="50" title="Apache Kafka">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/RabbitMQ.png" width="50" title="RabbitMQ">
-    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Docker.png" width="50" title="Docker">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Dapper.png" width="50" title="Dapper ORM">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Git.png" width="50" title="Git">
-    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Postman.png" width="50" title="Postman">
-    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/VS.png" width="50" title="Visual Studio">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Jenkins.png" width="50" title="Jenkins">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Docker.png" width="50" title="Docker">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/VSCode.png" width="50" title="Visual Studio Code">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/VS.png" width="50" title="Visual Studio">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Eclipse.png" width="50" title="Eclipse">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Android.png" width="50" title="Android Studio">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Xcode.png" width="50" title="Xcode">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Colab.png" width="50" title="Google Colab">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Anaconda.png" width="50" title="Anaconda Navigator">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Jupyter.png" width="50" title="Jupyter Notebook">
-    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Colab.png" width="50" title="Google Colab">
-    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Eclipse.png" width="50" title="Eclipse">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Postman.png" width="50" title="Postman">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Swagger.png" width="50" title="Swagger">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/jsDelivr.png" width="50" title="jsDelivr">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/NuGet.png" width="50" title="NuGet">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/GitHub.png" width="50" title="GitHub">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/GitLab.png" width="50" title="GitLab">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Procfile.png" width="50" title="Heroku">
-    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/NuGet.png" width="50" title="NuGet">
-    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/jsDelivr.png" width="50" title="jsDelivr">
-    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Swagger.png" width="50" title="Swagger">
-    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Jenkins.png" width="50" title="Jenkins">
-    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/StackOverflow.png" width="50" title="Stack Overflow">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Font.png" width="50" title="Font Awesome">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Atlassian.png" width="50" title="Atlassian">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Confluence.png" width="50" title="Confluence Software">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Jira.png" width="50" title="Jira Software">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Stack.png" width="50" title="Stack Overflow">
 </p>
 
 <p align="center">
