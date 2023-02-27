@@ -53,6 +53,7 @@
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Kafka.png" width="50" title="Apache Kafka">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Maven.png" width="50" title="Apache Maven">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Tomcat.png" width="50" title="Apache Tomcat">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Thymeleaf.png" width="50" title="Thymeleaf">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Lombok.png" width="50" title="Lombok">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Auth0.png" width="50" title="Auth0">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Fody.png" width="50" title="Fody">
