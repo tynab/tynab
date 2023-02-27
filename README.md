@@ -25,7 +25,6 @@
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/CS.png" width="50" title="C#">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Python.png" width="50" title="Python">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Java.png" width="50" title="Java">
-    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/ObjectiveC.png" width="50" title="Objective-C">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Postgre.png"n width="50" title="PostgreSQL">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/MySQL.png"n width="50" title="MySQL">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/MSSS.png" width="50" title="Microsoft SQL Server">
@@ -45,7 +44,6 @@
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/ADO.png" width="50" title="ADO.NET">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Xamarin.png" width="50" title="Xamarin">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/MAUI.png" width="50" title="MAUI">
-    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Lombok.png" width="50" title="Lombok">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Elasticsearch.png" width="50" title="Elasticsearch">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Logstash.png" width="50" title="Logstash">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Kibana.png" width="50" title="Kibana">
@@ -55,6 +53,11 @@
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Kafka.png" width="50" title="Apache Kafka">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Maven.png" width="50" title="Apache Maven">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Tomcat.png" width="50" title="Apache Tomcat">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Lombok.png" width="50" title="Lombok">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Auth0.png" width="50" title="Auth0">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Fody.png" width="50" title="Fody">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/RestSharp.png" width="50" title="RestSharp">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Fluent.png" width="50" title="FluentValidation">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/AutoMapper.png" width="50" title="AutoMapper">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Dapper.png" width="50" title="Dapper ORM">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Git.png" width="50" title="Git">
@@ -65,7 +68,6 @@
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/VS.png" width="50" title="Visual Studio">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Eclipse.png" width="50" title="Eclipse">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Android.png" width="50" title="Android Studio">
-    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Xcode.png" width="50" title="Xcode">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Colab.png" width="50" title="Google Colab">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Anaconda.png" width="50" title="Anaconda Navigator">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Jupyter.png" width="50" title="Jupyter Notebook">
@@ -76,10 +78,8 @@
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/GitHub.png" width="50" title="GitHub">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/GitLab.png" width="50" title="GitLab">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Procfile.png" width="50" title="Heroku">
-    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Font.png" width="50" title="Font Awesome">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Confluence.png" width="50" title="Confluence Software">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Jira.png" width="50" title="Jira Software">
-    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Stack.png" width="50" title="Stack Overflow">
 </p>
 
 <p align="center">
