@@ -71,7 +71,6 @@
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/VSCode.png" width="50" title="Visual Studio Code">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/VS.png" width="50" title="Visual Studio">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Eclipse.png" width="50" title="Eclipse">
-    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Android.png" width="50" title="Android Studio">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Colab.png" width="50" title="Google Colab">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Anaconda.png" width="50" title="Anaconda Navigator">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Jupyter.png" width="50" title="Jupyter Notebook">
