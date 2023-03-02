@@ -61,7 +61,6 @@
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Fluent.png" width="50" title="FluentValidation">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/AutoMapper.png" width="50" title="AutoMapper">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Dapper.png" width="50" title="Dapper ORM">
-    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/LiveServer.png" width="50" title="Live Server">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/NumPy.png" width="50" title="NumPy">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Matplotlib.png" width="50" title="Matplotlib">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Pandas.png" width="50" title="Pandas">
@@ -76,20 +75,8 @@
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Jupyter.png" width="50" title="Jupyter Notebook">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Postman.png" width="50" title="Postman">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Swagger.png" width="50" title="Swagger">
-    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/jsDelivr.png" width="50" title="jsDelivr">
-    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/NuGet.png" width="50" title="NuGet">
-    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/GitHub.png" width="50" title="GitHub">
-    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/GitLab.png" width="50" title="GitLab">
-    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Procfile.png" width="50" title="Heroku">
-    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Confluence.png" width="50" title="Confluence Software">
-    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Jira.png" width="50" title="Jira Software">
 </p>
 
 <p align="center">
 <img src="https://github-widgetbox.vercel.app/api/profile?username=tynab&data=followers,repositories,stars,commits">
 </p>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tynab&repo=yanf&theme=dracula" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tynab&repo=yanlib&theme=dracula" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=nohit-java17&repo=jira-project&theme=dracula" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tynab&repo=crm-project&theme=dracula" />
