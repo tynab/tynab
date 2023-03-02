@@ -44,6 +44,7 @@
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/ADO.png" width="50" title="ADO.NET">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Xamarin.png" width="50" title="Xamarin">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/MAUI.png" width="50" title="MAUI">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/CAP.png" width="50" title="CAP">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Elasticsearch.png" width="50" title="Elasticsearch">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Logstash.png" width="50" title="Logstash">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Kibana.png" width="50" title="Kibana">
