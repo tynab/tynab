@@ -15,7 +15,7 @@
 <!-- <img align='left' src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tynab&theme=dracula' /> -->
 
 <p algin='right'>
-    <img src='pic/HTML.png' width='70' title='HTML'>
+    <img src='pic/HTML.png' width='90' title='HTML'>
     <img src='pic/CSS.png' width='50' title='CSS'>
     <img src='pic/JS.png' width='50' title='JavaScript'>
     <img src='pic/jQuery.png' width='50' title='jQuery'>
