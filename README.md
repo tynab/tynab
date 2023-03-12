@@ -25,6 +25,7 @@
     <img src='pic/CS.png' width='55' title='C#'>
     <img src='pic/Python.png' width='55' title='Python'>
     <img src='pic/Java.png' width='55' title='Java'>
+    <img src='pic/Jupyter.png' width='55' title='Jupyter Notebook'>
     <img src='pic/Postgre.png'n width='55' title='PostgreSQL'>
     <img src='pic/MySQL.png'n width='55' title='MySQL'>
     <img src='pic/MSSS.png' width='55' title='Microsoft SQL Server'>
@@ -70,7 +71,6 @@
     <img src='pic/Git.png' width='55' title='Git'>
     <img src='pic/Jenkins.png' width='55' title='Jenkins'>
     <img src='pic/Docker.png' width='55' title='Docker'>
-    <img src='pic/Jupyter.png' width='55' title='Jupyter Notebook'>
 </p>
 
 <p align='center'>
