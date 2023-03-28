@@ -32,19 +32,10 @@
     <img src='pic/MongoDB.png' width='55' title='MongoDB'>
     <img src='pic/Redis.png' width='55' title='Redis'>
     <img src='pic/Boostrap.png' width='55' title='Boostrap'>
-    <img src='pic/dotNETF.png' width='55' title='.NET Framework'>
-    <img src='pic/dotNETCore.png' width='55' title='.NET Core'>
-    <img src='pic/ASP.png' width='55' title='ASP.NET'>
-    <img src='pic/ASPCore.png' width='55' title='ASP.NET Core'>
-    <img src='pic/Entity.png' width='55' title='Entity Framework'>
-    <img src='pic/EntityCore.png' width='55' title='Entity Framework Core'>
     <img src='pic/dotNET.png' width='55' title='.NET'>
     <img src='pic/Spring.png' width='55' title='Spring'>
     <img src='pic/ABP.png' width='55' title='ABP'>
     <img src='pic/CCF.png' width='55' title='Cimetrix Control'>
-    <img src='pic/ADO.png' width='55' title='ADO.NET'>
-    <img src='pic/Xamarin.png' width='55' title='Xamarin'>
-    <img src='pic/MAUI.png' width='55' title='MAUI'>
     <img src='pic/CAP.png' width='55' title='CAP'>
     <img src='pic/Elasticsearch.png' width='55' title='Elasticsearch'>
     <img src='pic/Logstash.png' width='55' title='Logstash'>
