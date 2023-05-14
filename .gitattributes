@@ -1,2 +1,3 @@
-**/wwwroot/libs/** linguist-vendored
+# Auto detect text files and perform LF normalization
+* text=auto
 pic/** !text !filter !merge !diff

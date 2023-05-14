@@ -30,6 +30,7 @@
     <img src='pic/MySQL.png'n width='55' title='MySQL'>
     <img src='pic/MSSS.png' width='55' title='Microsoft SQL Server'>
     <img src='pic/SQLite.png' width='55' title='SQLite'>
+    <img src='pic/Azure.png' width='55' title='Azure'>
     <img src='pic/MongoDB.png' width='55' title='MongoDB'>
     <img src='pic/Redis.png' width='55' title='Redis'>
     <img src='pic/Boostrap.png' width='55' title='Boostrap'>
