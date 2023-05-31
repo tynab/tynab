@@ -74,6 +74,8 @@
     <img src='pic/Git.png' width='55' title='Git'>
     <img src='pic/Jenkins.png' width='55' title='Jenkins'>
     <img src='pic/Docker.png' width='55' title='Docker'>
+    <img src='pic/Vagrant.png' width='55' title='Vagrant'>
+    <img src='pic/K8s.png' width='55' title='Kubernetes'>
 </p>
 
 <p align='center'>
