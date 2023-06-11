@@ -30,9 +30,11 @@
     <img src='pic/MySQL.png'n width='55' title='MySQL'>
     <img src='pic/MSSS.png' width='55' title='Microsoft SQL Server'>
     <img src='pic/SQLite.png' width='55' title='SQLite'>
-    <img src='pic/Azure.png' width='55' title='Azure'>
     <img src='pic/MongoDB.png' width='55' title='MongoDB'>
     <img src='pic/Redis.png' width='55' title='Redis'>
+    <img src='pic/Azure.png' width='55' title='Azure'>
+    <img src='pic/Cloudflare.png' width='55' title='Cloudflare'>
+    <img src='pic/Heroku.png' width='55' title='Heroku'>
     <img src='pic/Boostrap.png' width='55' title='Boostrap'>
     <img src='pic/dotNET.png' width='55' title='.NET'>
     <img src='pic/Spring.png' width='55' title='Spring'>
@@ -61,7 +63,6 @@
     <img src='pic/EPPlus.png' width='55' title='EPPlus'>
     <img src='pic/Google.png' width='55' title='Google APIs'>
     <img src='pic/NSubstitute.png' width='55' title='NSubstitute'>
-    <img src='pic/JetBrains.png' width='55' title='JetBrains'>
     <img src='pic/Shouldly.png' width='55' title='Shouldly'>
     <img src='pic/xunit.png' width='55' title='xUnit'>
     <img src='pic/HtmlAgilityPack.png' width='55' title='Html Agility Pack'>
@@ -72,10 +73,14 @@
     <img src='pic/Plotly.png' width='55' title='Plotly'>
     <img src='pic/sklearn.png' width='55' title='scikit-learn'>
     <img src='pic/Git.png' width='55' title='Git'>
-    <img src='pic/Jenkins.png' width='55' title='Jenkins'>
     <img src='pic/Docker.png' width='55' title='Docker'>
     <img src='pic/Vagrant.png' width='55' title='Vagrant'>
     <img src='pic/K8s.png' width='55' title='Kubernetes'>
+    <img src='pic/Jenkins.png' width='55' title='Jenkins'>
+    <img src='pic/Portainer.png' width='55' title='Portainer'>
+    <img src='pic/NGINX.png' width='55' title='NGINX'>
+    <img src='pic/NginxProxyManager.png' width='55' title='Nginx Proxy Manager'>
+    <img src='pic/ngrok.png' width='55' title='ngrok'>
     <img src='pic/Calico.png' width='55' title='Project Calico'>
 </p>
 
