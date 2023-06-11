@@ -55,15 +55,14 @@
     <img src='pic/Auth0.png' width='55' title='Auth0'>
     <img src='pic/Fody.png' width='55' title='Fody'>
     <img src='pic/RestSharp.png' width='55' title='RestSharp'>
-    <img src='pic/Dapper.png' width='55' title='Dapper ORM'>
     <img src='pic/Selenium.png' width='55' title='Selenium'>
     <img src='pic/SharpZipLib.png' width='55' title='SharpZipLib'>
-    <img src='pic/EPPlus.png' width='55' title='EPPlus'>
-    <img src='pic/Google.png' width='55' title='Google APIs'>
+    <img src='pic/Google.png' width='55' title='Google Cloud Platform'>
     <img src='pic/NSubstitute.png' width='55' title='NSubstitute'>
     <img src='pic/Shouldly.png' width='55' title='Shouldly'>
     <img src='pic/xunit.png' width='55' title='xUnit'>
     <img src='pic/HtmlAgilityPack.png' width='55' title='Html Agility Pack'>
+    <img src='pic/BenchmarkDotNet.png' width='55' title='BenchmarkDotNet'>
     <img src='pic/NumPy.png' width='55' title='NumPy'>
     <img src='pic/Matplotlib.png' width='55' title='Matplotlib'>
     <img src='pic/Pandas.png' width='55' title='Pandas'>
