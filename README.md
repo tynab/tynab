@@ -35,6 +35,7 @@
     <img src='pic/Azure.png' width='55' title='Azure'>
     <img src='pic/Cloudflare.png' width='55' title='Cloudflare'>
     <img src='pic/Heroku.png' width='55' title='Heroku'>
+    <img src='pic/NuGet.png' width='55' title='NuGet'>
     <img src='pic/Boostrap.png' width='55' title='Boostrap'>
     <img src='pic/dotNET.png' width='55' title='.NET'>
     <img src='pic/Spring.png' width='55' title='Spring'>
