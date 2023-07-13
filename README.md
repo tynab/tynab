@@ -70,6 +70,8 @@
     <img src='pic/seaborn.png' width='55' title='seaborn'>
     <img src='pic/Plotly.png' width='55' title='Plotly'>
     <img src='pic/sklearn.png' width='55' title='scikit-learn'>
+    <img src='pic/TensorFlow.png' width='55' title='TensorFlow'>
+    <img src='pic/Keras.png' width='55' title='Keras'>
     <img src='pic/Git.png' width='55' title='Git'>
     <img src='pic/Docker.png' width='55' title='Docker'>
     <img src='pic/Vagrant.png' width='55' title='Vagrant'>
