@@ -92,7 +92,6 @@
     <img src='pic/AzureDevops.png' width='49' title='Azure Devops'>
     <img src='pic/GitLab.png' width='49' title='GitLab'>
     <img src='pic/GitHub.png' width='49' title='GitHub'>
-    <img src='pic/Bitbucket.png' width='49' title='Bitbucket'>
     <img src='pic/JiraSoftware.png' width='49' title='Jira Software'>
     <img src='pic/Confluence.png' width='49' title='Confluence'>
     <img src='pic/AzureBoards.png' width='49' title='Azure Boards'>
@@ -102,13 +101,11 @@
     <img src='pic/AzureArtifacts.png' width='49' title='Azure Artifacts'>
     <img src='pic/AzureAppService.png' width='49' title='Azure App Service'>
     <img src='pic/RedisAzure.png' width='49' title='Azure Cache for Redis'>
-    <img src='pic/IAM.png' width='49' title='IAM'>
     <img src='pic/EC2.png' width='49' title='EC2'>
     <img src='pic/VPC.png' width='49' title='VPC'>
     <img src='pic/ECS.png' width='49' title='ECS'>
     <img src='pic/EKS.png' width='49' title='EKS'>
     <img src='pic/ElastiCache.png' width='49' title='ElastiCache'>
-    <img src='pic/AwsCostExplorer.png' width='49' title='AWS Cost Explorer'>
 </p>
 
 <p align='center'>
