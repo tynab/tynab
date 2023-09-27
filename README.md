@@ -80,6 +80,7 @@
     <img src='pic/sklearn.png' width='49' title='scikit-learn'>
     <img src='pic/TensorFlow.png' width='49' title='TensorFlow'>
     <img src='pic/Keras.png' width='49' title='Keras'>
+    <img src='pic/Figma.png' width='49' title='Figma'>
     <img src='pic/Git.png' width='49' title='Git'>
     <img src='pic/Docker.png' width='49' title='Docker'>
     <img src='pic/Vagrant.png' width='49' title='Vagrant'>
