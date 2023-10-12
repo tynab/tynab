@@ -76,6 +76,7 @@
     <img src='pic/Tomcat.png' width='49' title='Apache Tomcat'>
     <img src='pic/Kafka.png' width='49' title='Apache Kafka'>
     <img src='pic/Git.png' width='49' title='Git'>
+    <img src='pic/LFS.png' width='49' title='Git LFS'>
     <img src='pic/GitLab.png' width='49' title='GitLab'>
     <img src='pic/GitHub.png' width='49' title='GitHub'>
     <img src='pic/Bitbucket.png' width='49' title='Bitbucket'>
