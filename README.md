@@ -53,6 +53,7 @@
     <img src='pic/TensorFlow.png' width='49' title='TensorFlow'>
     <img src='pic/Keras.png' width='49' title='Keras'>
     <img src='pic/PyTorch.png' width='49' title='PyTorch'>
+    <img src='pic/Pymunk.png' width='49' title='Pymunk'>
     <img src='pic/Pygame.png' width='49' title='Pygame'>
     <img src='pic/Vagrant.png' width='49' title='Vagrant'>
     <img src='pic/Docker.png' width='49' title='Docker'>
