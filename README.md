@@ -107,6 +107,7 @@
     <img src='pic/ElastiCache.png' width='49' title='AWS ElastiCache'>
     <img src='pic/AmazonOpenSearchService.png' width='49' title='Amazon OpenSearch Service'>
     <img src='pic/S3.png' width='49' title='AWS S3'>
+    <img src='pic/CodeCommit.png' width='49' title='AWS CodeCommit'>
     <img src='pic/AmazonMQ.png' width='49' title='Amazon MQ'>
     <img src='pic/CloudFront.png' width='49' title='AWS CloudFront'>
     <img src='pic/CloudWatch.png' width='49' title='AWS CloudWatch'>
