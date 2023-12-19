@@ -68,6 +68,7 @@
     <img src='pic/Beats.png' width='49' title='Elastic Beats'>
     <img src='pic/Wazuh.png' width='49' title='Wazuh'>
     <img src='pic/Calico.png' width='49' title='Project Calico'>
+    <img src='pic/Kong.png' width='49' title='Kong Gateway'>
     <img src='pic/NGINX.png' width='49' title='NGINX'>
     <img src='pic/ngrok.png' width='49' title='ngrok'>
     <img src='pic/Jenkins.png' width='49' title='Jenkins'>
@@ -77,6 +78,7 @@
     <img src='pic/Maven.png' width='49' title='Apache Maven'>
     <img src='pic/Tomcat.png' width='49' title='Apache Tomcat'>
     <img src='pic/Kafka.png' width='49' title='Apache Kafka'>
+    <img src='pic/Pulsar.png' width='49' title='Apache Pulsar'>
     <img src='pic/Git.png' width='49' title='Git'>
     <img src='pic/LFS.png' width='49' title='Git LFS'>
     <img src='pic/GitLab.png' width='49' title='GitLab'>
@@ -86,6 +88,7 @@
     <img src='pic/Confluence.png' width='49' title='Confluence'>
     <img src='pic/drawio.png' width='49' title='draw.io'>
     <img src='pic/Figma.png' width='49' title='Figma'>
+    <img src='pic/Google.png' width='49' title='Google Cloud Platform'>
     <img src='pic/AzureDevops.png' width='49' title='Azure Devops'>
     <img src='pic/AzureBoards.png' width='49' title='Azure Boards'>
     <img src='pic/AzureRepos.png' width='49' title='Azure Repos'>
