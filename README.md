@@ -140,6 +140,12 @@
 </p>
 
 <div>
+<a href='https://www.hackerrank.com/certificates/21f4d932e858'>
+    <img src='certificate/SE.png' width='279' title='Software Engineer'>
+</a>
+<a href='https://www.hackerrank.com/certificates/4ad345e70e8d'>
+    <img src='certificate/FE.png' width='279' title='Frontend Developer (React)'>
+</a>
 <a href='https://www.hackerrank.com/certificates/18b8b69e9e0f'>
     <img src='certificate/Java1.png' width='279' title='Java (Basic)'>
 </a>
@@ -148,6 +154,9 @@
 </a>
 <a href='https://www.hackerrank.com/certificates/9136c4f105da'>
     <img src='certificate/JavaScript2.png' width='279' title='JavaScript (Intermediate)'>
+</a>
+<a href='https://www.hackerrank.com/certificates/fe8553df0712'>
+    <img src='certificate/Go2.png' width='279' title='Go (Intermediate)'>
 </a>
 <a href='https://www.hackerrank.com/certificates/afa149d488a2'>
     <img src='certificate/Problem2.png' width='279' title='Problem Solving (Intermediate)'>
