@@ -129,6 +129,7 @@
     <img src='pic/CloudFront.png' width='49' title='AWS CloudFront'>
     <img src='pic/CloudWatch.png' width='49' title='AWS CloudWatch'>
     <img src='pic/Route53.png' width='49' title='AWS Route 53'>
+    <img src='pic/Cloud9.png' width='49' title='AWS Cloud 9'>
     <img src='pic/CertificateManager.png' width='49' title='AWS Certificate Manager'>
     <img src='pic/Billing.png' width='49' title='AWS Billing'>
     <img src='pic/AWSCostManagement.png' width='49' title='AWS Cost Management'>
