@@ -122,6 +122,7 @@
     <img src='pic/AmazonOpenSearchService.png' width='44' title='Amazon OpenSearch Service'>
     <img src='pic/ElastiCache.png' width='44' title='AWS ElastiCache'>
     <img src='pic/AmazonMQ.png' width='44' title='Amazon MQ'>
+    <img src='pic/Chatbot.png' width='44' title='AWS Chatbot'>
     <img src='pic/Billing.png' width='44' title='AWS Billing'>
     <img src='pic/AWSCostManagement.png' width='44' title='AWS Cost Management'>
     <img src='pic/Google.png' width='44' title='Google Cloud Platform'>
