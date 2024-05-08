@@ -11,7 +11,7 @@
 </p>
 
 <!-- <img align='left' src='https://github-readme-stats.vercel.app/api/top-langs/?username=tynab&theme=dracula&langs_count=10' /> -->
-<img align='left' src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tynab&theme=dracula&langs_count=20' />
+<img align='left' src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tynab&theme=dracula&langs_count=25' />
 <!-- <img align='left' src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tynab&theme=dracula' /> -->
 
 <p algin='right'>
@@ -64,6 +64,7 @@
     <img src='pic/Lombok.png' width='44' title='Lombok'>
     <img src='pic/Vagrant.png' width='44' title='Vagrant'>
     <img src='pic/Docker.png' width='44' title='Docker'>
+    <img src='pic/Podman.png' width='44' title='Podman'>
     <img src='pic/K8s.png' width='44' title='Kubernetes'>
     <img src='pic/K9s.png' width='44' title='K9s'>
     <img src='pic/Elastic.png' width='44' title='Elastic Stack'>
