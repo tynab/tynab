@@ -65,6 +65,7 @@
     <img src='pic/Vagrant.png' width='44' title='Vagrant'>
     <img src='pic/Docker.png' width='44' title='Docker'>
     <img src='pic/Podman.png' width='44' title='Podman'>
+    <img src='pic/Minikube.png' width='44' title='Minikube'>
     <img src='pic/K8s.png' width='44' title='Kubernetes'>
     <img src='pic/K9s.png' width='44' title='K9s'>
     <img src='pic/Elastic.png' width='44' title='Elastic Stack'>
