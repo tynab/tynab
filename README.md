@@ -69,6 +69,8 @@
     <img src='pic/Minikube.png' width='44' title='Minikube'>
     <img src='pic/K8s.png' width='44' title='Kubernetes'>
     <img src='pic/K9s.png' width='44' title='K9s'>
+    <img src='pic/Prometheus.png' width='44' title='Prometheus'>
+    <img src='pic/Grafana.png' width='44' title='Grafana'>
     <img src='pic/Elastic.png' width='44' title='Elastic Stack'>
     <img src='pic/Elasticsearch.png' width='44' title='Elasticsearch'>
     <img src='pic/Logstash.png' width='44' title='Logstash'>
@@ -103,6 +105,7 @@
     <img src='pic/AWS.png' width='44' title='AWS'>
     <img src='pic/IAM.png' width='44' title='AWS IAM'>
     <img src='pic/CertificateManager.png' width='44' title='AWS Certificate Manager'>
+    <img src='pic/SecretsManager.png' width='44' title='AWS Secrets Manager'>
     <img src='pic/ApiGateway.png' width='44' title='AWS API Gateway'>
     <img src='pic/VPC.png' width='44' title='AWS VPC'>
     <img src='pic/Route53.png' width='44' title='AWS Route 53'>
@@ -127,6 +130,7 @@
     <img src='pic/AmazonOpenSearchService.png' width='44' title='Amazon OpenSearch Service'>
     <img src='pic/ElastiCache.png' width='44' title='AWS ElastiCache'>
     <img src='pic/AmazonMQ.png' width='44' title='Amazon MQ'>
+    <img src='pic/SNS.png' width='44' title='AWS Simple Notification Service'>
     <img src='pic/Chatbot.png' width='44' title='AWS Chatbot'>
     <img src='pic/Billing.png' width='44' title='AWS Billing'>
     <img src='pic/AWSCostManagement.png' width='44' title='AWS Cost Management'>
