@@ -63,14 +63,18 @@
     <img src='pic/CAP.png' width='44' title='DotNetCore.CAP'>
     <img src='pic/Lombok.png' width='44' title='Lombok'>
     <img src='pic/Vagrant.png' width='44' title='Vagrant'>
-    <img src='pic/Docker.png' width='44' title='Docker'>
+    <img src='pic/Ollama.png' width='44' title='Ollama'>
     <img src='pic/Podman.png' width='44' title='Podman'>
+    <img src='pic/Docker.png' width='44' title='Docker'>
     <img src='pic/DockerCompose.png' width='44' title='Docker Compose'>
+    <img src='pic/DockerSwarm.png' width='44' title='Docker Swarm'>
     <img src='pic/Minikube.png' width='44' title='Minikube'>
     <img src='pic/K8s.png' width='44' title='Kubernetes'>
+    <img src='pic/OpenWebUI.png' width='44' title='Open WebUI'>
     <img src='pic/K9s.png' width='44' title='K9s'>
     <img src='pic/Prometheus.png' width='44' title='Prometheus'>
     <img src='pic/Grafana.png' width='44' title='Grafana'>
+    <img src='pic/Watchtower.png' width='44' title='Watchtower'>
     <img src='pic/Elastic.png' width='44' title='Elastic Stack'>
     <img src='pic/Elasticsearch.png' width='44' title='Elasticsearch'>
     <img src='pic/Logstash.png' width='44' title='Logstash'>
