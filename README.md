@@ -21,7 +21,6 @@
     <img src='pic/HTML.png' width='49' title='HTML'>
     <img src='pic/CSS.png' width='49' title='CSS'>
     <img src='pic/JS.png' width='49' title='JavaScript'>
-    <img src='pic/jQuery.png' width='49' title='jQuery'>
     <img src='pic/VB.png' width='49' title='Visual Basic'>
     <img src='pic/Swift.png' width='49' title='Swift'>
     <img src='pic/ObjectiveC.png' width='49' title='Objective-C'>
@@ -41,32 +40,21 @@
     <img src='pic/Qdrant.png' width='49' title='Qdrant'>
     <img src='pic/Neo4j.png' width='49' title='Neo4j'>
     <img src='pic/Bootstrap.png' width='49' title='Bootstrap'>
-    <img src='pic/Thymeleaf.png' width='49' title='Thymeleaf'>
     <img src='pic/Blazor.png' width='49' title='Blazor'>
     <img src='pic/Xamarin.png' width='49' title='Xamarin'>
     <img src='pic/MAUI.png' width='49' title='MAUI'>
     <img src='pic/Angular.png' width='49' title='Angular'>
-    <img src='pic/React.png' width='49' title='React'>
     <img src='pic/Nodejs.png' width='49' title='Node.js'>
     <img src='pic/dotNet.png' width='49' title='.NET'>
     <img src='pic/ABP.png' width='49' title='ABP'>
     <img src='pic/CCF.png' width='49' title='Cimetrix Control'>
     <img src='pic/Android.png' width='49' title='Android SDK'>
     <img src='pic/Spring.png' width='49' title='Spring'>
-    <img src='pic/NumPy.png' width='49' title='NumPy'>
-    <img src='pic/Matplotlib.png' width='49' title='Matplotlib'>
-    <img src='pic/Pandas.png' width='49' title='Pandas'>
-    <img src='pic/seaborn.png' width='49' title='seaborn'>
-    <img src='pic/SciPy.png' width='49' title='SciPy'>
-    <img src='pic/Plotly.png' width='49' title='Plotly'>
-    <img src='pic/sklearn.png' width='49' title='scikit-learn'>
     <img src='pic/TensorFlow.png' width='49' title='TensorFlow'>
     <img src='pic/Keras.png' width='49' title='Keras'>
     <img src='pic/PyTorch.png' width='49' title='PyTorch'>
-    <img src='pic/Pymunk.png' width='49' title='Pymunk'>
     <img src='pic/Pygame.png' width='49' title='Pygame'>
     <img src='pic/CAP.png' width='49' title='DotNetCore.CAP'>
-    <img src='pic/Lombok.png' width='49' title='Lombok'>
     <img src='pic/n8n.png' width='49' title='n8n'>
     <img src='pic/Helm.png' width='49' title='Helm'>
     <img src='pic/Argo.png' width='49' title='Argo CD'>
@@ -110,12 +98,34 @@
     <img src='pic/Unity.png' width='49' title='Unity'>
     <img src='pic/Godot.png' width='49' title='Godot'>
     <img src='pic/Elastic.png' width='49' title='Elastic Stack'>
-    <img src='pic/AWS.png' width='49' title='AWS'>
-    <img src='pic/Azure.png' width='49' title='Azure'>
-    <img src='pic/Google.png' width='49' title='GCP'>
+    <img src='pic/AWS.png' width='49' title='Amazon Web Services'>
+    <img src='pic/Azure.png' width='49' title='Microsoft Azure'>
+    <img src='pic/GCP.png' width='49' title='Google Cloud Platform'>
     <img src='pic/Apache.png' width='49' title='Apache'>
     <img src='pic/Atlassian.png' width='49' title='Atlassian'>
     <img src='pic/ComfyUI.png' width='49' title='ComfyUI'>
+    <img src='pic/LangChain.png' width='49' title='LangChain'>
+    <img src='pic/Snowflake.png' width='49' title='Snowflake'>
+    <img src='pic/HuggingFace.png' width='49' title='Hugging Face'>
+    <img src='pic/NextJS.png' width='49' title='NextJS'>
+    <img src='pic/Tripo3D.png' width='49' title='Tripo 3D'>
+    <img src='pic/JamDev.png' width='49' title='Jam.dev'>
+    <img src='pic/Codex.png' width='49' title='Codex'>
+    <img src='pic/Rust.png' width='49' title='Rust'>
+    <img src='pic/MinIO.png' width='49' title='MinIO'>
+    <img src='pic/NestJS.png' width='49' title='NestJS'>
+    <img src='pic/Meshy.png' width='49' title='Meshy'>
+    <img src='pic/Mermaid.png' width='49' title='Mermaid'>
+    <img src='pic/K3s.png' width='49' title='K3s'>
+    <img src='pic/Go.png' width='49' title='Go'>
+    <img src='pic/Cursor.png' width='49' title='Cursor'>
+    <img src='pic/ClickHouse.png' width='49' title='ClickHouse'>
+    <img src='pic/Claude.png' width='49' title='Claude'>
+    <img src='pic/Blender.png' width='49' title='Blender'>
+    <img src='pic/Adobe.png' width='49' title='Adobe'>
+    <img src='pic/TypeScript.png' width='49' title='TypeScript'>
+    <img src='pic/RLlib.png' width='49' title='Ray RLlib'>
+    <img src='pic/Copilot.png' width='49' title='GitHub Copilot'>
 </p>
 
 <p align='center'>
