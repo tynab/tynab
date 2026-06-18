@@ -28,7 +28,7 @@
     <img src='pic/NextJS.png' width='49' title='NextJS'>
     <img src='pic/Blazor.png' width='49' title='Blazor'>
     <!-- Backend / App Frameworks -->
-    <img src='pic/Nodejs.png' width='49' title='Node.js'>
+    <img src='pic/Nodejs.png' width='49' title='NodeJS'>
     <img src='pic/NestJS.png' width='49' title='NestJS'>
     <img src='pic/dotNet.png' width='49' title='.NET'>
     <img src='pic/ABP.png' width='49' title='ABP'>
