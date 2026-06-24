@@ -33,7 +33,6 @@
     <img src='pic/dotNet.png' width='49' title='.NET'>
     <img src='pic/ABP.png' width='49' title='ABP'>
     <img src='pic/Spring.png' width='49' title='Spring'>
-    <img src='pic/CAP.png' width='49' title='DotNetCore.CAP'>
     <img src='pic/SignalR.png' width='49' title='SignalR'>
     <img src='pic/Hangfire.png' width='49' title='Hangfire'>
     <!-- Programming Languages -->
@@ -71,9 +70,10 @@
     <!-- AI / ML / Data Science -->
     <img src='pic/Anaconda.png' width='49' title='Anaconda'>
     <img src='pic/TensorFlow.png' width='49' title='TensorFlow'>
-    <img src='pic/Keras.png' width='49' title='Keras'>
     <img src='pic/PyTorch.png' width='49' title='PyTorch'>
     <img src='pic/HuggingFace.png' width='49' title='Hugging Face'>
+    <img src='pic/MLflow.png' width='49' title='MLflow'>
+    <img src='pic/Seldon.png' width='49' title='Seldon Core'>
     <img src='pic/Ollama.png' width='49' title='Ollama'>
     <img src='pic/OpenWebUI.png' width='49' title='Open WebUI'>
     <img src='pic/ComfyUI.png' width='49' title='ComfyUI'>
@@ -91,7 +91,7 @@
     <img src='pic/Minikube.png' width='49' title='Minikube'>
     <img src='pic/K9s.png' width='49' title='K9s'>
     <img src='pic/Helm.png' width='49' title='Helm'>
-    <img src='pic/Argo.png' width='49' title='Argo CD'>
+    <img src='pic/Argo.png' width='49' title='Argo'>
     <img src='pic/Jenkins.png' width='49' title='Jenkins'>
     <img src='pic/Terraform.png' width='49' title='Terraform'>
     <img src='pic/Ansible.png' width='49' title='Ansible'>
@@ -128,7 +128,6 @@
     <!-- Game / 3D / Creative Tools -->
     <img src='pic/Unity.png' width='49' title='Unity'>
     <img src='pic/Godot.png' width='49' title='Godot'>
-    <img src='pic/Pygame.png' width='49' title='Pygame'>
     <img src='pic/Blender.png' width='49' title='Blender'>
     <img src='pic/Tripo3D.png' width='49' title='Tripo 3D'>
     <img src='pic/Meshy.png' width='49' title='Meshy'>
