@@ -23,6 +23,7 @@
     <img src='pic/CSS.png' width='49' title='CSS'>
     <img src='pic/JS.png' width='49' title='JavaScript'>
     <img src='pic/TypeScript.png' width='49' title='TypeScript'>
+    <img src='pic/React.png' width='49' title='React'>
     <img src='pic/Bootstrap.png' width='49' title='Bootstrap'>
     <img src='pic/Angular.png' width='49' title='Angular'>
     <img src='pic/NextJS.png' width='49' title='NextJS'>
@@ -33,6 +34,7 @@
     <img src='pic/dotNet.png' width='49' title='.NET'>
     <img src='pic/ABP.png' width='49' title='ABP'>
     <img src='pic/Spring.png' width='49' title='Spring'>
+    <img src='pic/Thymeleaf.png' width='49' title='Thymeleaf'>
     <img src='pic/SignalR.png' width='49' title='SignalR'>
     <img src='pic/Hangfire.png' width='49' title='Hangfire'>
     <!-- Programming Languages -->
@@ -69,11 +71,16 @@
     <img src='pic/n8n.png' width='49' title='n8n'>
     <!-- AI / ML / Data Science -->
     <img src='pic/Anaconda.png' width='49' title='Anaconda'>
+    <img src='pic/JupyterNotebook.png' width='49' title='Jupyter Notebook'>
     <img src='pic/TensorFlow.png' width='49' title='TensorFlow'>
     <img src='pic/PyTorch.png' width='49' title='PyTorch'>
+    <img src='pic/Ray.png' width='49' title='Ray'>
+    <img src='pic/RLlib.png' width='49' title='RLlib'>
     <img src='pic/HuggingFace.png' width='49' title='Hugging Face'>
+    <img src='pic/LangChain.png' width='49' title='LangChain'>
+    <img src='pic/LangGraph.png' width='49' title='LangGraph'>
     <img src='pic/MLflow.png' width='49' title='MLflow'>
-    <img src='pic/Seldon.png' width='49' title='Seldon Core'>
+    <img src='pic/SeldonCore.png' width='49' title='Seldon Core'>
     <img src='pic/Ollama.png' width='49' title='Ollama'>
     <img src='pic/OpenWebUI.png' width='49' title='Open WebUI'>
     <img src='pic/ComfyUI.png' width='49' title='ComfyUI'>
