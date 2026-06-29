@@ -67,7 +67,7 @@
     <img src='pic/Qdrant.png' width='49' title='Qdrant'>
     <img src='pic/Neo4j.png' width='49' title='Neo4j'>
     <img src='pic/Elastic.png' width='49' title='Elastic Stack'>
-    <!-- <img src='pic/ClickHouse.png' width='49' title='ClickHouse'> -->
+    <img src='pic/ClickHouse.png' width='49' title='ClickHouse'>
     <img src='pic/Snowflake.png' width='49' title='Snowflake'>
     <img src='pic/Superset.png' width='49' title='Superset'>
     <!-- Messaging / Workflow Automation -->
@@ -78,7 +78,7 @@
     <img src='pic/JupyterNotebook.png' width='49' title='Jupyter Notebook'>
     <img src='pic/TensorFlow.png' width='49' title='TensorFlow'>
     <img src='pic/PyTorch.png' width='49' title='PyTorch'>
-    <!-- <img src='pic/Ray.png' width='49' title='Ray'> -->
+    <img src='pic/Ray.png' width='49' title='Ray'>
     <img src='pic/RLlib.png' width='49' title='RLlib'>
     <img src='pic/HuggingFace.png' width='49' title='Hugging Face'>
     <img src='pic/LangChain.png' width='49' title='LangChain'>
